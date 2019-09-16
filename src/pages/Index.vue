@@ -65,6 +65,10 @@
 
         <ul class="text-lg sm:text-xl">
           <li class="checkmark mb-6">
+            <div>September 2019</div>
+            <div class="text-lg text-gray-600"><a href="/downloads/newsletter-september-2019.pdf">Download the August 2019 Newsletter (PDF)</a></div>
+          </li>
+          <li class="checkmark mb-6">
             <div>August 2019</div>
             <div class="text-lg text-gray-600"><a href="/downloads/newsletter-august-2019.pdf">Download the August 2019 Newsletter (PDF)</a></div>
           </li>
