@@ -40,16 +40,20 @@
 
         <ul class="text-lg sm:text-xl">
           <li class="checkmark mb-6">
-            <div>WEDNESDAY THE 10th JULY 7.15pm</div>
-            <div class="text-lg text-gray-600">“You're On!” Each member presents a single track from a favourite Jazz CD. </div>
+            <div>WEDNESDAY THE 11th DECEMBER 7.15pm</div>
+            <div class="text-lg text-gray-600">“You're On!” Each member presents a single track from a favourite Jazz CD. Including FREE Mince Pies!</div>
+          </li>
+          <li class="checkmark mb-6">
+            <div>WEDNESDAY THE 11TH SEPTEMBER</div>
+            <div class="text-lg text-gray-600">Recorded music presentation 3 members present 40 minutes of recorded jazz music</div>
           </li>
           <li class="checkmark mb-6">
             <div>WEDNESDAY THE 14th AUGUST 7.15pm</div>
             <div class="text-lg text-gray-600">Guest Speaker - The life and times of DUKE ELLINGTON plus HOAGY CARMICHAEL a life in music</div>
           </li>
           <li class="checkmark mb-6">
-            <div>WEDNESDAY THE 11TH SEPTEMBER</div>
-            <div class="text-lg text-gray-600">Recorded music presentation 3 members present 40 minutes of recorded jazz music</div>
+            <div>WEDNESDAY THE 10th JULY 7.15pm</div>
+            <div class="text-lg text-gray-600">“You're On!” Each member presents a single track from a favourite Jazz CD. </div>
           </li>
         </ul>
       </div> <!-- end projects -->
@@ -64,6 +68,10 @@
         </div>
 
         <ul class="text-lg sm:text-xl">
+          <li class="checkmark mb-6">
+            <div>November 2019</div>
+            <div class="text-lg text-gray-600"><a href="/downloads/newsletter-november-2019.pdf">Download the November 2019 Newsletter (PDF)</a></div>
+          </li>
           <li class="checkmark mb-6">
             <div>October 2019</div>
             <div class="text-lg text-gray-600"><a href="/downloads/newsletter-october-2019.pdf">Download the October 2019 Newsletter (PDF)</a></div>
